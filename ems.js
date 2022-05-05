@@ -270,11 +270,16 @@ var phone = form.querySelector("#phone");
 
 
 checkout.addEventListener("click", function(){
-    inp = inputNameValidator(inputName);
-    em = emailValidator(email);
-    ph = phoneValidator(phone);
+    var child = cartDiv.querySelector("tbody");
+    var inp = inputNameValidator(inputName);
+    var em = emailValidator(email);
+    var ph = phoneValidator(phone);
+    if (child.children.length > 0){
     if (inp === true && em === true && ph === true){
-        payWithPaystack();
+        console.log(child.children);
+         payWithPaystack();
+}}else{
+  alert("You cannot checkout with an empty cart.");
 }});
 
 
