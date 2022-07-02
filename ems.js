@@ -11,32 +11,32 @@ var products = [
     product1 = {
         name : "SAMSUMG TV",
         price : "500000",
-        thumbnail : "https://ex-former.github.io/Project Files/Images/product1.png",
+        thumbnail : "https://nonso-uj.github.io/Project Files/Images/product1.png",
     },
     product2 = {
         name : "PIXEL 4a",
         price : "300000",
-        thumbnail : "https://ex-former.github.io/Project Files/Images/product2.png",
+        thumbnail : "https://nonso-uj.github.io/Project Files/Images/product2.png",
     },
     product3 = {
         name : "PS 5",
         price : "330000",
-        thumbnail : "https://ex-former.github.io/Project Files/Images/product3.png",
+        thumbnail : "https://nonso-uj.github.io/Project Files/Images/product3.png",
     },
     product4 = {
         name : "MACBOOK AIR",
         price : "700000",
-        thumbnail : "https://ex-former.github.io/Project Files/Images/product4.png",
+        thumbnail : "https://nonso-uj.github.io/Project Files/Images/product4.png",
     },
     product5 = {
         name : "APPLE WATCH",
         price : "80000",
-        thumbnail : "https://ex-former.github.io/Project Files/Images/product5.png",
+        thumbnail : "https://nonso-uj.github.io/Project Files/Images/product5.png",
     },
     product6 = {
         name : "AIR PODS",
         price : "50000",
-        thumbnail : "https://ex-former.github.io/Project Files/Images/product6.png",
+        thumbnail : "https://nonso-uj.github.io/Project Files/Images/product6.png",
     },
 ]
 
